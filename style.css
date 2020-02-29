@@ -99,7 +99,7 @@ a .fab {
   color: white;
 }
 
-.course, .skills {
+.skills {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
@@ -114,9 +114,9 @@ a .fab {
 }
 
 .course .descrition {
-  -ms-flex: 0 0 66.6%;
-  flex: 0 0 66.6%;
-  max-width: 66.6%;
+  -ms-flex: 0 0 90%;
+  flex: 0 0 90%;
+  max-width: 90%;
 }
 
 .course .descrition p {
