@@ -61,6 +61,13 @@ h3, h4 {
   font-weight: bold;
 }
 
+.lang {
+  font-weight: bold;
+  color: white;
+  text-align: left;
+  float: left;
+}
+
 main {
   max-width: 1140px;
 }
